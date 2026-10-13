@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "choosing-a-storage-unit",
+  "title": "How to Choose a Storage Unit: A Checklist",
+  "description": "A practical checklist for choosing a storage facility: security, access hours, contract terms, insurance, fees, trade association membership and reviews.",
+  "keywords": [
+    "how to choose a storage unit",
+    "storage unit checklist",
+    "best storage facility",
+    "storage unit security",
+    "storage contract",
+    "storage insurance",
+    "storage unit tips",
+    "self storage association"
+  ],
+  "cardText": "Security, access, contracts, insurance and fees: what to check before you sign.",
+  "eyebrow": "Checklist",
+  "h1": "How to choose a storage unit: a checklist",
+  "intro": "Most storage facilities look similar online. This checklist helps you compare the things that matter once your belongings are inside.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1638847868668-a05a2f69622f",
+    "alt": "A storage building with red roll-up doors against the sky",
+    "credit": "Adam Winger",
+    "creditUrl": "https://unsplash.com/@awcreativeut"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “security” or “contract”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Security",
+      "html": "<ul><li>Gated or keypad entry, ideally with individual access codes</li><li>CCTV that covers corridors and entrances, not just the gate</li><li>Good lighting and, ideally, on-site staff during the day</li><li>Individually alarmed units at some facilities</li><li>A sturdy lock: disc locks are harder to cut than standard padlocks</li></ul>"
+    },
+    {
+      "h2": "Access and convenience",
+      "html": "<ul><li>Access hours that fit your plans (some sites offer 24-hour access)</li><li>Drive-up units or loading bays near the door</li><li>Lifts, trolleys and pallet trucks</li><li>Parking for vans and trailers</li></ul>"
+    },
+    {
+      "h2": "Contract and fees",
+      "html": "<ul><li>Minimum term, notice period and how rent is charged</li><li>How and when prices can change</li><li>Admin fees, deposits and late fees</li><li>What happens if rent is unpaid, including the facility’s right to sell contents (lien rights in the US)</li><li>Rules on what you can store</li></ul>"
+    },
+    {
+      "h2": "Insurance and protection",
+      "html": "<p>Many facilities require your goods to be covered. Compare the facility’s cover with any home, renters or business insurance you already have, checking the claim limits, excess or deductible and exclusions such as damp or pests.</p>"
+    },
+    {
+      "h2": "Reputation",
+      "html": "<ul><li>Read recent reviews on independent sites</li><li>Visit before you book and look at the unit you’ll actually get</li><li>Check whether the operator belongs to a trade association, such as the Self Storage Association (US), the Self Storage Association UK or a member association of FEDESSA in Europe. Membership usually means signing up to a code of practice.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What lock should I use on a storage unit?",
+      "a": "Many facilities recommend or sell disc locks or closed-shackle padlocks, which are harder to cut. Some sites use their own smart locks instead."
+    },
+    {
+      "q": "Should I visit a storage facility before booking?",
+      "a": "If you can, yes. A visit lets you check cleanliness, security, access and the actual unit, which photos don’t always show."
+    }
+  ],
+  "faqTitle": "Choosing storage: FAQs",
+  "related": [
+    "storage-units",
+    "save-on-storage",
+    "climate-controlled-storage",
+    "business-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

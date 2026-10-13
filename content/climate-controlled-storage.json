@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-13",
+  "slug": "climate-controlled-storage",
+  "title": "Climate-Controlled Storage: Is It Worth Paying For?",
+  "description": "What climate-controlled storage is, which items need it (wooden furniture, electronics, documents, art) and when a standard unit is fine.",
+  "keywords": [
+    "climate controlled storage",
+    "temperature controlled storage",
+    "heated storage",
+    "humidity controlled storage",
+    "storage for furniture",
+    "wine storage",
+    "art storage",
+    "is climate controlled storage worth it"
+  ],
+  "cardText": "Which items need temperature or humidity control, and when a standard unit will do.",
+  "eyebrow": "Climate-controlled storage",
+  "h1": "Climate-controlled storage: is it worth it?",
+  "intro": "Climate-controlled units keep temperature, and sometimes humidity, within a set range. They usually cost more, so it’s worth knowing when you really need one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1662320154145-7263e998e7a2",
+    "alt": "An indoor storage corridor lined with metal unit doors",
+    "credit": "Beatriz Reynolds",
+    "creditUrl": "https://unsplash.com/@iambeatrizbraga"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “furniture” or “wine”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What “climate-controlled” means",
+      "html": "<p>Terms vary by provider. <strong>Temperature-controlled</strong> units are heated and/or cooled to stay within a range. <strong>Humidity-controlled</strong> units also limit moisture, which matters most for damp-sensitive items. In the UK and much of Europe, many indoor facilities are insulated and ventilated rather than fully climate-controlled. Always ask the provider exactly what they control and to what range.</p>"
+    },
+    {
+      "h2": "Items that benefit from climate control",
+      "html": "<ul><li>Wooden and antique furniture, which can warp or crack</li><li>Electronics, computers and musical instruments</li><li>Paper documents, books and photographs</li><li>Artwork, leather, fabrics and mattresses</li><li>Wine and some collectibles</li><li>Medicines and cosmetics (check the facility allows them)</li></ul>"
+    },
+    {
+      "h2": "When a standard unit is fine",
+      "html": "<ul><li>Short stays in a mild season</li><li>Garden furniture, tools and bikes</li><li>Plastic storage boxes of clothes or kitchenware</li><li>Items you’d happily keep in a garage</li></ul>"
+    },
+    {
+      "h2": "Protect your things in any unit",
+      "html": "<ul><li>Use plastic crates or good-quality boxes, not bin bags</li><li>Keep items off the floor on pallets</li><li>Leave a gap between items and walls for airflow</li><li>Cover furniture with breathable dust sheets, not plastic wrap</li><li>Make sure everything is completely dry before storing</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is climate-controlled storage worth the extra cost?",
+      "a": "For valuable or moisture-sensitive items such as wooden furniture, electronics, documents and art, it is often worth it. For tools, garden furniture or plastic boxes, a standard unit is usually enough."
+    },
+    {
+      "q": "Do I need climate control for long-term storage?",
+      "a": "The longer items are stored, the more exposure they have to temperature swings and damp, so climate control becomes more useful for sensitive items over long periods."
+    },
+    {
+      "q": "Are indoor units climate-controlled?",
+      "a": "Not necessarily. Indoor units are protected from the weather but may not be heated, cooled or humidity-controlled. Ask the facility."
+    }
+  ],
+  "faqTitle": "Climate-controlled storage: FAQs",
+  "related": [
+    "storage-units",
+    "storage-unit-sizes",
+    "business-storage",
+    "choosing-a-storage-unit"
+  ],
+  "relatedTitle": "Related guides"
+}

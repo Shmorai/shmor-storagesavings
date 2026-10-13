@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 7,
+  "title": "Storage Blog: Packing Tips & Self-Storage Guides",
+  "description": "Practical self-storage advice: how to pack a storage unit, what you can’t store, choosing between containers and units, and tips to save money on storage.",
+  "eyebrow": "Tips · Guides · Explainers",
+  "h1": "Storage tips and guides",
+  "intro": "Practical answers to the storage questions people search for most, from packing a unit properly to what you’re not allowed to store.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1700165644892-3dd6b67b25bc",
+    "alt": "Rows of open cardboard boxes ready for packing",
+    "credit": "Luke Heibert",
+    "creditUrl": "https://unsplash.com/@lukeheibert"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "storage blog",
+    "storage tips",
+    "packing tips",
+    "self storage advice",
+    "moving tips"
+  ],
+  "cardText": "Packing tips, storage rules and money-saving advice."
+}

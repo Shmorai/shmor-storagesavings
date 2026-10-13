@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-13",
+  "slug": "storage-unit-sizes",
+  "nav": "Size guide",
+  "navOrder": 2,
+  "title": "Storage Unit Size Guide: What Size Do You Need?",
+  "description": "Storage unit sizes in feet, sq ft and m²: what fits in a 5x5, 5x10, 10x10 or 10x20 unit, and how to avoid paying for space you don’t use.",
+  "keywords": [
+    "storage unit sizes",
+    "what size storage unit do i need",
+    "10x10 storage unit",
+    "5x10 storage unit",
+    "10x20 storage unit",
+    "storage size calculator",
+    "square feet storage",
+    "storage unit m2"
+  ],
+  "cardText": "What fits in a 5×5, 10×10 or 10×20 unit, in feet, sq ft and m².",
+  "eyebrow": "Sizes",
+  "h1": "Storage unit size guide: what size do you need?",
+  "intro": "Choosing the right size is the easiest way to save on storage. Too small and you’ll struggle to fit everything in; too big and you pay every month for empty space.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517490232338-06b912a786b5",
+    "alt": "Numbered roller-shutter doors on storage units",
+    "credit": "Steve A Johnson",
+    "creditUrl": "https://unsplash.com/@steve_j"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “10x10” or “car”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Use this guide for free, then book directly with the provider you choose."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Compare the price per square foot or square metre, not just per unit."
+    },
+    {
+      "title": "Home or business",
+      "text": "Sizes for a few boxes up to a whole house or business stock."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Common storage unit sizes",
+      "html": "<p>US facilities usually describe units by their floor dimensions in feet. UK facilities often quote square feet, and European facilities square metres. Exact sizes vary between providers, so treat this as a rough guide:</p><div class=\"table-wrap\"><table><thead><tr><th>US size (ft)</th><th>Area</th><th>Approx. metric</th><th>Typically fits</th></tr></thead><tbody>\n<tr><td>5 × 5</td><td>25 sq ft</td><td>about 2–2.5 m²</td><td>Boxes, a small chest of drawers, seasonal items, a bike. Like a large closet.</td></tr>\n<tr><td>5 × 10</td><td>50 sq ft</td><td>about 4.5–5 m²</td><td>Contents of a studio flat or a small bedroom: a mattress, a sofa, boxes.</td></tr>\n<tr><td>10 × 10</td><td>100 sq ft</td><td>about 9–10 m²</td><td>A one-bedroom apartment or flat, or a two-bedroom home packed tightly.</td></tr>\n<tr><td>10 × 15</td><td>150 sq ft</td><td>about 14 m²</td><td>A two-bedroom home with appliances.</td></tr>\n<tr><td>10 × 20</td><td>200 sq ft</td><td>about 18–19 m²</td><td>A three-bedroom house, or a car with room to spare.</td></tr>\n<tr><td>10 × 30</td><td>300 sq ft</td><td>about 28 m²</td><td>A four- or five-bedroom house, or business stock and equipment.</td></tr>\n</tbody></table></div><p>Most units are around 8 ft (about 2.4 m) high, so stacking safely uses the full height and can let you choose a smaller floor area.</p>"
+    },
+    {
+      "h2": "How to work out your size",
+      "html": "<ol><li>List the large items first: beds, sofas, wardrobes, white goods, bikes.</li><li>Count or estimate your boxes. Standard-sized boxes stack better and waste less space.</li><li>Decide whether you need a walkway to reach things during your rental.</li><li>Ask the facility to show you two sizes. Many have a size estimator or will advise you in person.</li></ol>"
+    },
+    {
+      "h2": "Tips to fit more into a smaller unit",
+      "html": "<ul><li>Dismantle bed frames and tables and keep the fixings in labelled bags</li><li>Stand sofas on end only if the manufacturer says it’s safe</li><li>Use the space inside wardrobes, drawers and appliances for small items</li><li>Put heavy boxes at the bottom and lighter ones on top</li><li>Use free-standing shelving to stack boxes higher without crushing them</li></ul><p>More ideas in our guide to <a href=\"/blog/how-to-pack-a-storage-unit/\">packing a storage unit</a>.</p>"
+    },
+    {
+      "h2": "Should you size up or down?",
+      "html": "<p>If you’ll only visit once or twice, pack tightly and choose the smaller size. If you’ll be in and out often (for business stock, for example), a little extra space for a walkway saves time and frustration. Some facilities let you <strong>move to a different size</strong> during your rental if your needs change, so it’s worth asking.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What size storage unit do I need for a one-bedroom flat?",
+      "a": "A 10 × 10 ft unit (about 100 sq ft, or roughly 9–10 m²) usually fits the contents of a one-bedroom apartment or flat, including the main furniture and boxes."
+    },
+    {
+      "q": "What size storage unit do I need for a three-bedroom house?",
+      "a": "A 10 × 20 ft unit (about 200 sq ft, or roughly 18–19 m²) is a common choice for a three-bedroom house, depending on how much furniture you have."
+    },
+    {
+      "q": "Can I fit a car in a storage unit?",
+      "a": "A 10 × 20 ft unit usually fits a typical car. Check the door width and height, and whether the facility allows vehicles inside units. See our vehicle storage guide for other options."
+    },
+    {
+      "q": "How do I convert square feet to square metres?",
+      "a": "One square metre is about 10.76 square feet. So 100 sq ft is about 9.3 m², and 50 sq ft is about 4.6 m²."
+    }
+  ],
+  "faqTitle": "Storage sizes: frequently asked questions",
+  "related": [
+    "storage-units",
+    "storage-for-moving",
+    "vehicle-storage",
+    "save-on-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

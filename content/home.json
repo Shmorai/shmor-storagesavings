@@ -1,15 +1,110 @@
 {
+  "updated": "2026-10-13",
   "slug": "",
-  "title": "StorageSavings: Self-storage units for home and business. Co",
-  "description": "Self-storage units for home and business. Compare storage sizes, prices and providers near you. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "StorageSavings",
-  "intro": "Self-storage units for home and business. Compare storage sizes, prices and providers near you.",
-  "related": [],
+  "title": "StorageSavings: Compare Self Storage Units & Save",
+  "description": "Compare self-storage units for home and business: unit sizes, container storage, climate control and simple ways to pay less for storage in the US, UK and EU.",
+  "eyebrow": "Self storage for home and business",
+  "h1": "Find the right storage unit, and pay less for it.",
+  "h1Html": "Find the right storage unit, <span class=\"hl\">and pay less for it.</span>",
+  "intro": "Plain-English guides to self storage, container storage and business storage across the US, UK and Europe. Work out the size you need, what to check before you sign and how to keep your monthly bill down.",
+  "searchPlaceholder": "What do you need to store? e.g. furniture, stock, a car…",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694601618351-dbbbb2b8934f",
+    "alt": "A row of self-storage units with yellow roll-up doors",
+    "credit": "Aga Adamek",
+    "creditUrl": "https://unsplash.com/@agaadamek"
+  },
+  "chips": [
+    {
+      "label": "Unit size guide",
+      "slug": "storage-unit-sizes"
+    },
+    {
+      "label": "Business storage",
+      "slug": "business-storage"
+    },
+    {
+      "label": "Storage for moving",
+      "slug": "storage-for-moving"
+    },
+    {
+      "label": "Container storage",
+      "slug": "container-storage"
+    },
+    {
+      "label": "Car, RV & boat storage",
+      "slug": "vehicle-storage"
+    },
+    {
+      "label": "Save on storage",
+      "slug": "save-on-storage"
+    }
+  ],
+  "highlightsTitle": "Why start your storage search here",
+  "highlights": [
+    {
+      "title": "Independent guides",
+      "text": "We don’t run storage facilities, so we can explain the trade-offs honestly."
+    },
+    {
+      "title": "Right-size first time",
+      "text": "Our size guide helps you avoid paying for space you won’t use."
+    },
+    {
+      "title": "Spot the hidden costs",
+      "text": "Admin fees, insurance, locks and price rises: know them before you sign."
+    },
+    {
+      "title": "Home and business",
+      "text": "Personal storage, business storage and peer-to-peer space, all in one place."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use StorageSavings?",
-      "html": "<p>Self-storage units for home and business. Compare storage sizes, prices and providers near you.</p>"
+      "h2": "Storage for every situation",
+      "html": "<ul><li><strong>Personal storage:</strong> <a href=\"/storage-units/\">self-storage units</a> for furniture, boxes and seasonal items, plus <a href=\"/climate-controlled-storage/\">climate-controlled storage</a> for things that don’t like damp or heat.</li><li><strong>Life events:</strong> <a href=\"/storage-for-moving/\">storage while moving house</a>, renovating or travelling, and <a href=\"/student-storage/\">student storage</a> between terms.</li><li><strong>Business storage:</strong> <a href=\"/business-storage/\">stock, tools, archives and equipment</a>, from a small locker to a warehouse-style unit.</li><li><strong>Other options:</strong> <a href=\"/container-storage/\">portable and shipping-container storage</a>, <a href=\"/vehicle-storage/\">car, RV, caravan and boat storage</a>, and <a href=\"/peer-to-peer-storage/\">renting a neighbour’s spare space</a>.</li></ul>"
+    },
+    {
+      "h2": "Three questions to answer before you book",
+      "html": "<ol><li><strong>How much space do you really need?</strong> Use our <a href=\"/storage-unit-sizes/\">storage unit size guide</a>. Picking one size too big is the most common way people overpay.</li><li><strong>How often will you need access?</strong> Drive-up units, 24-hour access and ground-floor units suit frequent visits. If you’ll rarely visit, a cheaper option further out may do.</li><li><strong>What will it really cost each month?</strong> Add insurance or protection cover, any admin fee, a lock and possible price rises. Our guide to <a href=\"/save-on-storage/\">saving on storage</a> explains each one.</li></ol>"
+    },
+    {
+      "h2": "Public storage facilities or private space?",
+      "html": "<p>Most people rent from a <strong>self-storage facility</strong>: a staffed or app-managed site with individual lockable units, security and set access hours. Some prefer <strong>private or peer-to-peer storage</strong>, renting a garage, loft or driveway from a homeowner. Others use <strong>container storage</strong> delivered to their door. Each suits a different budget and level of convenience, and our <a href=\"/choosing-a-storage-unit/\">checklist for choosing a storage unit</a> works for all of them.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is StorageSavings free to use?",
+      "a": "Yes. Our guides are free. When you book storage you deal directly with the provider and agree their terms."
+    },
+    {
+      "q": "How does StorageSavings make money?",
+      "a": "Some links may be affiliate links. If you book through them, the provider may pay us a commission. It never changes the price you pay."
+    },
+    {
+      "q": "Do you cover the US, UK and Europe?",
+      "a": "Yes. We explain storage in feet and square feet (US and UK) and in square metres (Europe), and point out where rules such as VAT or vehicle registration differ."
+    },
+    {
+      "q": "Do you own any storage facilities?",
+      "a": "No. StorageSavings is an independent guide and comparison site. We don’t own, run or inspect storage facilities, so always check a provider’s terms, security and reviews yourself."
+    }
+  ],
+  "related": [
+    "storage-units",
+    "storage-unit-sizes",
+    "business-storage",
+    "storage-for-moving",
+    "climate-controlled-storage",
+    "container-storage",
+    "vehicle-storage",
+    "student-storage",
+    "peer-to-peer-storage",
+    "save-on-storage",
+    "choosing-a-storage-unit"
+  ],
+  "relatedTitle": "Storage guides",
+  "latestPosts": 3,
+  "ctaTitle": "What do you need to store?"
 }

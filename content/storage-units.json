@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-13",
+  "slug": "storage-units",
+  "nav": "Storage units",
+  "navOrder": 1,
+  "title": "Self Storage Units: How They Work & What to Compare",
+  "description": "How self-storage units work, what you can store, indoor vs drive-up units, contracts, insurance and access. Everything to compare before you rent a unit.",
+  "keywords": [
+    "storage units",
+    "self storage",
+    "storage unit near me",
+    "self storage units",
+    "rent a storage unit",
+    "storage facility",
+    "personal storage",
+    "lock up storage"
+  ],
+  "cardText": "How self storage works, indoor vs drive-up units, contracts and what to compare.",
+  "eyebrow": "Personal storage",
+  "h1": "Self-storage units: how they work and what to compare",
+  "intro": "A self-storage unit is a private, lockable space you rent by the month (or week) at a storage facility. You hold the key or code, you pack it yourself and you come and go during access hours.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1649313444539-a8900c5cdc54",
+    "alt": "A row of drive-up storage units at a storage facility",
+    "credit": "Adam Winger",
+    "creditUrl": "https://unsplash.com/@awcreativeut"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “sizes” or “insurance”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare storage providers",
+  "sections": [
+    {
+      "h2": "How self storage works",
+      "html": "<ol><li>Choose a facility and a unit size, online or in person.</li><li>Sign a rental agreement. Many are rolling monthly contracts with a notice period; some offer discounts for longer terms.</li><li>Arrange insurance or the provider’s protection cover. Many facilities require your goods to be covered.</li><li>Move in with your own lock (or the facility’s smart lock) and access the unit whenever the site is open to you.</li><li>Give notice when you’re done, empty the unit and leave it clean.</li></ol>"
+    },
+    {
+      "h2": "Indoor, drive-up and outdoor units",
+      "html": "<ul><li><strong>Indoor units</strong> sit inside a building, reached by corridors and often lifts. They’re usually cleaner and better protected from the weather. This is the most common type in the UK and much of Europe.</li><li><strong>Drive-up units</strong> have a roll-up door you can park right in front of. They’re very common in the US and make loading heavy furniture much easier.</li><li><strong>Outdoor parking and lock-ups</strong> suit vehicles, trailers and hard-wearing equipment.</li><li><strong><a href=\"/climate-controlled-storage/\">Climate-controlled units</a></strong> keep temperature (and sometimes humidity) within a set range for sensitive items.</li></ul>"
+    },
+    {
+      "h2": "What you can and can’t store",
+      "html": "<p>Furniture, boxes, appliances, sports gear, business stock and documents are all fine in most facilities. Almost every contract bans:</p><ul><li>Flammable, explosive or hazardous materials (fuel, gas bottles, paint thinners, fireworks)</li><li>Food and perishables that attract pests</li><li>Living things: people, pets and plants</li><li>Stolen goods, illegal items, weapons and ammunition (rules vary by country)</li><li>Anything that smells, leaks or is wet</li></ul><p>See our guide to <a href=\"/blog/what-not-to-put-in-storage/\">what not to put in storage</a> for more detail.</p>"
+    },
+    {
+      "h2": "What to compare between facilities",
+      "html": "<ul><li><strong>The full monthly price</strong>, including insurance, VAT (UK/EU) and any admin or set-up fee</li><li><strong>Introductory offers</strong> and what you’ll pay once they end</li><li><strong>Access hours</strong> and how you get in (keypad, app, staffed reception)</li><li><strong>Security</strong>: CCTV, gated entry, individual unit alarms, on-site staff</li><li><strong>Minimum term and notice period</strong></li><li><strong>Location</strong>: a site a little further out is often cheaper if you won’t visit often</li></ul><p>Our <a href=\"/choosing-a-storage-unit/\">storage unit checklist</a> covers each point in more depth.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can I rent a storage unit for?",
+      "a": "Most facilities rent by the month with no fixed end date, so you can stay as long as you need. Some also offer weekly terms or discounts for paying several months upfront."
+    },
+    {
+      "q": "Do I need insurance for a storage unit?",
+      "a": "Many facilities require it. You can usually buy cover or a protection plan from the facility, or check whether your home, renters or business insurance covers goods in storage. Home policies often limit cover for items kept away from home, so read the terms."
+    },
+    {
+      "q": "Can anyone else access my unit?",
+      "a": "Normally only you and anyone you authorise. Facilities usually keep the right to enter in an emergency, for maintenance or if rent goes unpaid, as set out in the contract."
+    },
+    {
+      "q": "What happens if I miss a payment?",
+      "a": "Late fees usually apply, and access can be blocked. If rent stays unpaid, facilities can eventually sell the contents to recover what is owed, following the contract and local law (in the US, state self-storage lien laws). Contact the facility early if you’re struggling."
+    }
+  ],
+  "faqTitle": "Storage units: frequently asked questions",
+  "related": [
+    "storage-unit-sizes",
+    "climate-controlled-storage",
+    "choosing-a-storage-unit",
+    "save-on-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-13",
+  "slug": "student-storage",
+  "title": "Student Storage: Store Your Things Over the Summer",
+  "description": "Student storage between terms and over summer: self storage, collection services and sharing a unit. How to pack, what to check and how to save.",
+  "keywords": [
+    "student storage",
+    "summer storage",
+    "university storage",
+    "college storage",
+    "storage between terms",
+    "dorm storage",
+    "student storage near me",
+    "student storage pick up"
+  ],
+  "cardText": "Store your things between terms or over the summer, alone or shared with friends.",
+  "eyebrow": "Student storage",
+  "h1": "Student storage: keep your things safe between terms",
+  "intro": "Heading home for the summer or studying abroad? Student storage means you don’t have to ship everything home and back again.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1663625318264-695d2d04f11a",
+    "alt": "Packed boxes in a room by a window ready for storage",
+    "credit": "Alicia Christin Gerald",
+    "creditUrl": "https://unsplash.com/@allysphotos"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “boxes” or “packing”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare student storage",
+  "sections": [
+    {
+      "h2": "Your options",
+      "html": "<ul><li><strong>Self-storage unit:</strong> rent the smallest unit or locker that fits, near campus or near home.</li><li><strong>Collection services:</strong> some companies collect boxes from your room and return them at the start of term. You pay per box or item.</li><li><strong>Share a unit:</strong> splitting a unit with friends can cut the cost each, but agree in writing who pays what and who holds access.</li></ul>"
+    },
+    {
+      "h2": "Tips for students",
+      "html": "<ul><li>Book early: demand peaks at the end of the academic year</li><li>Ask about student offers, and check the price after any offer ends</li><li>Use sturdy, same-sized boxes and label each one</li><li>Don’t store food, and make sure everything is clean and dry</li><li>Check your insurance: student contents policies don’t always cover storage</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What size storage unit does a student need?",
+      "a": "A small locker or a unit of around 25 sq ft (about 2.5 m², or 5 × 5 ft) usually fits boxes, a bike and a few small items from a student room."
+    },
+    {
+      "q": "Can I share a storage unit with friends?",
+      "a": "Often yes, but the contract is usually in one person’s name, and they’re responsible for payment and access. Agree how you’ll split costs before you start."
+    }
+  ],
+  "faqTitle": "Student storage: FAQs",
+  "related": [
+    "storage-unit-sizes",
+    "storage-for-moving",
+    "save-on-storage",
+    "peer-to-peer-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

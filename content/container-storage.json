@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-13",
+  "slug": "container-storage",
+  "nav": "Containers",
+  "navOrder": 5,
+  "title": "Container Storage: Portable Pods & Shipping Containers",
+  "description": "Portable storage containers and shipping containers explained: delivered to your door or kept at a depot, sizes, permits and when they beat a unit.",
+  "keywords": [
+    "container storage",
+    "portable storage",
+    "storage container rental",
+    "mobile storage",
+    "storage pod",
+    "shipping container storage",
+    "shipping container rental",
+    "on site storage",
+    "container storage near me"
+  ],
+  "cardText": "Portable pods and shipping containers, delivered to your door or stored at a depot.",
+  "eyebrow": "Container storage",
+  "h1": "Container storage: portable pods and shipping containers",
+  "intro": "Container storage brings the storage to you. A container is delivered to your home or site, you load it at your own pace, and it’s either collected and stored at a depot or left on site.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605732562742-3023a888e56e",
+    "alt": "Stacked orange shipping containers against a deep blue sky",
+    "credit": "Aron Yigin",
+    "creditUrl": "https://unsplash.com/@aronyigin"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “permit” or “moving”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare container storage",
+  "sections": [
+    {
+      "h2": "Two main types",
+      "html": "<ul><li><strong>Portable storage containers (“pods”)</strong> are delivered to your driveway, loaded by you, then either stay on site or are taken to a secure depot. Some providers can move the container to your new home.</li><li><strong>Shipping containers</strong> are steel containers, commonly 20 ft or 40 ft long, rented or bought for longer-term on-site storage at homes, farms, building sites and businesses. They’re also used as rented units at some container storage yards.</li></ul>"
+    },
+    {
+      "h2": "When containers beat a storage unit",
+      "html": "<ul><li>You want to load at home without hiring a van</li><li>You’re renovating and need storage on site</li><li>You’re moving and the container can travel to your new home</li><li>A building site or farm needs secure, weatherproof space</li></ul>"
+    },
+    {
+      "h2": "Permits and space",
+      "html": "<p>If the container can’t go on your own driveway or land, you may need permission to place it on the street (from your local council in the UK, or your city or municipality in the US and Europe). Homeowners’ associations and leases can have rules too. Check access for the delivery truck, ground conditions and overhead cables before booking.</p>"
+    },
+    {
+      "h2": "What to check before you book",
+      "html": "<ul><li>Delivery and collection fees, and any charge to move the container to a new address</li><li>Whether the container is weatherproof and how it’s locked</li><li>Where it’s stored when off site, and whether you can visit it</li><li>Insurance or protection cover while it’s on your property and in transit</li><li>Minimum rental period</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is container storage cheaper than a storage unit?",
+      "a": "It depends on the provider, size, how long you need it and delivery fees. Containers can save the cost of a van or movers. Compare the total cost of each option for your situation."
+    },
+    {
+      "q": "Do I need a permit for a storage container?",
+      "a": "If it stays on your own private driveway or land, usually not. If it goes on a public road or pavement, you’ll often need a permit from your local authority. HOA, lease or planning rules may also apply."
+    },
+    {
+      "q": "Can I access my container when it’s at the depot?",
+      "a": "Some providers allow visits by appointment; others don’t. Ask before you book if you’ll need items during the rental."
+    }
+  ],
+  "faqTitle": "Container storage: FAQs",
+  "related": [
+    "storage-for-moving",
+    "business-storage",
+    "storage-units",
+    "save-on-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

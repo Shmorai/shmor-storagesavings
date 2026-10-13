@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-13",
+  "slug": "storage-for-moving",
+  "nav": "Moving",
+  "navOrder": 4,
+  "title": "Storage for Moving House: Bridge the Gap Between Homes",
+  "description": "How to use storage when moving house or relocating: short-term storage between homes, removals storage, container storage and how to plan the move in and out.",
+  "keywords": [
+    "storage for moving",
+    "moving storage",
+    "removals storage",
+    "short term storage",
+    "storage between houses",
+    "temporary storage",
+    "storage while renovating",
+    "relocation storage",
+    "moving and storage"
+  ],
+  "cardText": "Short-term storage between homes, during renovations or while relocating.",
+  "eyebrow": "Moving house",
+  "h1": "Storage for moving house: bridge the gap between homes",
+  "intro": "Completion dates slip, renovations overrun and new homes are sometimes smaller than the old one. Short-term storage keeps your belongings safe while you sort it out.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714647211902-bb711d643a17",
+    "alt": "A woman carrying moving boxes in a living room",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "searchPlaceholder": "Search moving guides, e.g. “packing” or “container”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare storage for your move",
+  "sections": [
+    {
+      "h2": "When storage helps during a move",
+      "html": "<ul><li>A gap between leaving your old home and getting the keys to the new one</li><li>Renovating or decorating before you move everything in</li><li>Moving abroad or into temporary accommodation</li><li>Downsizing and not yet ready to sell or give away furniture</li><li>Staging a home for sale by clearing clutter</li></ul>"
+    },
+    {
+      "h2": "Your three main options",
+      "html": "<ul><li><strong>Self-storage unit:</strong> you (or your movers) take everything to a facility. Flexible and easy to visit.</li><li><strong><a href=\"/container-storage/\">Portable container storage</a>:</strong> a container is dropped at your home, you load it, and it’s stored at a depot or kept on your driveway.</li><li><strong>Removals company storage:</strong> many moving companies store your belongings in their warehouse between collection and delivery. Convenient, but you usually can’t access items until they’re delivered.</li></ul>"
+    },
+    {
+      "h2": "Plan the move in and out",
+      "html": "<ol><li>Book storage as soon as you know your dates, since facilities can be busy at peak moving times</li><li>Pick a size using our <a href=\"/storage-unit-sizes/\">size guide</a></li><li>Pack the things you’ll need first at the front of the unit</li><li>Keep a list of what’s in each box</li><li>Check the notice period, so you aren’t charged for an extra month after you move out</li></ol>"
+    },
+    {
+      "h2": "Insurance during a move",
+      "html": "<p>Check what’s covered at each stage: on the removal truck, in storage and in transit again. Your mover’s cover, the storage provider’s cover and your own home insurance may each cover different parts, with different limits.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much notice do I need to give a storage facility?",
+      "a": "It varies. Many rolling contracts ask for anything from a few days to a month’s notice. Check before you sign so you can time it with your move."
+    },
+    {
+      "q": "Can movers take my things straight to a storage unit?",
+      "a": "Yes. Most removals companies will deliver to a storage facility. Make sure the unit is booked, the facility is open and your movers know the access arrangements."
+    },
+    {
+      "q": "Is it better to use a container or a storage unit when moving?",
+      "a": "A container saves you a trip, as you load it at home. A storage unit is easier to visit during the rental. Compare total costs, including delivery and collection."
+    }
+  ],
+  "faqTitle": "Moving storage: frequently asked questions",
+  "related": [
+    "container-storage",
+    "storage-unit-sizes",
+    "student-storage",
+    "save-on-storage"
+  ],
+  "relatedTitle": "Related guides"
+}

@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-13",
+  "slug": "business-storage",
+  "nav": "Business storage",
+  "navOrder": 3,
+  "title": "Business Storage: Stock, Archives, Tools & Equipment",
+  "description": "Business storage for stock, e-commerce inventory, archives, tools and equipment. What to look for, from deliveries to access hours and contracts.",
+  "keywords": [
+    "business storage",
+    "commercial storage",
+    "storage for business",
+    "stock storage",
+    "inventory storage",
+    "document storage",
+    "archive storage",
+    "warehouse space",
+    "storage for ecommerce",
+    "tool storage for tradespeople",
+    "office storage"
+  ],
+  "cardText": "Stock, archives, tools and equipment: flexible space without a warehouse lease.",
+  "eyebrow": "Business storage",
+  "h1": "Business storage for stock, archives and equipment",
+  "intro": "Self storage gives businesses flexible space without signing a long warehouse lease. It’s used by online sellers, tradespeople, offices, events companies and anyone who needs more room for a while.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1644079446600-219068676743",
+    "alt": "Tall shelving filled with stock in a large warehouse",
+    "credit": "Lance Chang",
+    "creditUrl": "https://unsplash.com/@carmendis"
+  },
+  "searchPlaceholder": "Search business storage, e.g. “archives” or “stock”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides are free. You contract directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Compare access, delivery handling and contract terms, not just price."
+    },
+    {
+      "title": "Home or business",
+      "text": "From a small locker to warehouse-style units."
+    }
+  ],
+  "partnersTitle": "Compare business storage providers",
+  "sections": [
+    {
+      "h2": "What businesses use storage for",
+      "html": "<ul><li><strong>Stock and inventory</strong> for online sellers and retailers, especially seasonal peaks</li><li><strong>Tools, materials and equipment</strong> for tradespeople and contractors</li><li><strong>Document archives</strong> that must be kept but aren’t needed day to day</li><li><strong>Office furniture and IT</strong> during a move, refit or downsizing</li><li><strong>Event kit, exhibition stands and samples</strong></li></ul>"
+    },
+    {
+      "h2": "Features to look for",
+      "html": "<ul><li>Delivery acceptance: some facilities sign for parcels and pallets when you’re not there</li><li>Loading bays, pallet trucks, trolleys or forklift help</li><li>Extended or 24-hour access for early starts</li><li>Drive-up units for vans</li><li>Wi-Fi, desks or small offices on site at some facilities</li><li>Invoices that suit your bookkeeping, and in the UK and EU, VAT invoices you can reclaim from if you’re VAT-registered</li></ul>"
+    },
+    {
+      "h2": "Storing business records",
+      "html": "<p>Many businesses must keep records for years. In the UK, HMRC generally expects limited companies to keep records for 6 years from the end of the last company financial year they relate to. In the US, the IRS says to keep records for as long as they’re needed to support your tax return, which is often 3 years and longer in some cases. Check the rules that apply to you with your accountant.</p><ul><li>Box and label archives by year so they’re easy to destroy securely when no longer needed</li><li>Keep boxes off the floor on pallets or shelving</li><li>Consider a <a href=\"/climate-controlled-storage/\">climate-controlled unit</a> for paper records</li><li>Keep an index of what’s stored where</li></ul>"
+    },
+    {
+      "h2": "Storage unit or warehouse lease?",
+      "html": "<p>Self storage suits businesses that want flexibility: monthly terms, the option to change size and no fit-out costs. A warehouse or industrial lease can cost less per square foot at larger sizes but usually means longer commitments, business rates or property taxes and running costs. Many businesses start with self storage and move on as they grow.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a storage facility accept deliveries for my business?",
+      "a": "Many business-focused facilities do, but not all. Ask what sizes they accept (parcels, pallets), during what hours, and whether there’s a fee."
+    },
+    {
+      "q": "Can I run my business from a storage unit?",
+      "a": "Storage units are usually for storage only. Most contracts don’t allow you to work, trade or have customers in the unit. Some facilities offer separate office or workspace you can rent."
+    },
+    {
+      "q": "Is business storage tax-deductible?",
+      "a": "Storage used wholly for business is usually an allowable business expense, but rules vary by country and situation. Check with your accountant."
+    }
+  ],
+  "faqTitle": "Business storage: frequently asked questions",
+  "related": [
+    "storage-unit-sizes",
+    "container-storage",
+    "climate-controlled-storage",
+    "choosing-a-storage-unit"
+  ],
+  "relatedTitle": "Related guides"
+}

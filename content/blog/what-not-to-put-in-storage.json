@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-13",
+  "slug": "blog/what-not-to-put-in-storage",
+  "type": "post",
+  "date": "2026-10-13",
+  "title": "What Can’t You Put in a Storage Unit? Items to Avoid",
+  "description": "The items storage facilities usually ban, from fuel and gas bottles to food, plants and pets, plus items that are allowed but better kept somewhere else.",
+  "eyebrow": "Storage rules",
+  "h1": "What can’t you put in a storage unit?",
+  "intro": "Every facility has its own list, set out in your contract, but the banned items are broadly similar across the US, UK and Europe. Here’s what to leave out, and why.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551313158-73d016a829ae",
+    "alt": "A row of purple roller-shutter storage doors",
+    "credit": "JOSHUA COLEMAN",
+    "creditUrl": "https://unsplash.com/@joshstyle"
+  },
+  "keywords": [
+    "what can you not put in a storage unit",
+    "storage unit prohibited items",
+    "can you store food in a storage unit",
+    "can you store a car in storage",
+    "storage unit rules"
+  ],
+  "cardText": "Banned items, risky items and what to keep at home instead.",
+  "sections": [
+    {
+      "h2": "Items storage facilities usually ban",
+      "html": "<ul><li><strong>Flammable or hazardous materials:</strong> petrol or gasoline, gas bottles, paints and solvents, chemicals, fireworks</li><li><strong>Food and perishables:</strong> they attract pests that can spread to other units</li><li><strong>Living things:</strong> people, pets and plants</li><li><strong>Illegal items:</strong> stolen goods, drugs, and in many places weapons and ammunition</li><li><strong>Anything wet, smelly or leaking</strong>, including waste</li></ul>"
+    },
+    {
+      "h2": "Items that may need permission",
+      "html": "<ul><li><strong>Vehicles:</strong> often allowed in drive-up units if registered and insured. See <a href=\"/vehicle-storage/\">vehicle storage</a>.</li><li><strong>Business stock:</strong> usually fine, but some facilities restrict certain goods</li><li><strong>Batteries and engines:</strong> may need fuel drained or batteries removed</li></ul>"
+    },
+    {
+      "h2": "Allowed, but better kept elsewhere",
+      "html": "<ul><li>Cash, jewellery and irreplaceable documents such as passports: a safe or bank deposit box may be better</li><li>Family photos and heirlooms, unless the unit is <a href=\"/climate-controlled-storage/\">climate-controlled</a></li><li>Things you’ll need often</li></ul>"
+    },
+    {
+      "h2": "Why the rules matter",
+      "html": "<p>Breaking the rules can cancel your insurance, end your contract and put other customers’ belongings at risk. If you’re unsure about an item, ask the facility before you move in.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I store a lawnmower in a storage unit?",
+      "a": "Often yes, but many facilities require the fuel to be drained first. Check the facility’s rules."
+    },
+    {
+      "q": "Can I store tinned food in storage?",
+      "a": "Many facilities ban all food, including tinned or canned goods, because of pests. Check your contract."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Self Storage Association (US)",
+      "url": "https://www.selfstorage.org/"
+    },
+    {
+      "title": "Self Storage Association UK",
+      "url": "https://www.ssauk.com/"
+    },
+    {
+      "title": "FEDESSA: Federation of European Self Storage Associations",
+      "url": "https://www.fedessa.org/"
+    }
+  ],
+  "related": [
+    "storage-units",
+    "choosing-a-storage-unit",
+    "vehicle-storage"
+  ]
+}

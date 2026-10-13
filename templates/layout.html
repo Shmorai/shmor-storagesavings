@@ -3,12 +3,18 @@
 <head>
 {{head}}
 </head>
-<!-- This site's own design. tools/build.js fills each double-brace placeholder: head, nav, main, footer_nav, site_name, year, body_class. -->
+<!-- StorageSavings design. tools/build.js fills each double-brace placeholder: head, nav, main, footer_nav, site_name, year, body_class. -->
 <body class="{{body_class}}">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap bar">
-    <a class="brand" href="/">{{site_name}}</a>
+    <div class="brand-wrap">
+      <a class="brand" href="/" aria-label="StorageSavings home">
+        <svg class="ss-mark" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#FACC15"/><path d="M8 32V16.5L20 9l12 7.5V32" fill="none" stroke="#16181D" stroke-width="3" stroke-linejoin="round"/><path d="M13.5 32V20.5h13V32" fill="none" stroke="#16181D" stroke-width="2.6" stroke-linejoin="round"/><path d="M13.5 24.5h13M13.5 28.5h13" stroke="#16181D" stroke-width="2.2"/></svg>
+        <span class="ss-word">Storage<b>Savings</b></span>
+      </a>
+      <a class="by" href="https://shmor.ai/">by Shmor.ai</a>
+    </div>
     <nav class="nav" data-nav aria-label="Main">{{nav}}</nav>
     <button class="menu" data-menu aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
   </div>
@@ -19,21 +25,25 @@
 <footer class="site-footer">
   <div class="wrap">
     <div class="foot-cols">
-      <div><a class="brand" href="/">{{site_name}}</a><p>Part of the <a href="https://shmor.ai/">Shmor.ai</a> network. Search more. Do less.</p></div>
-      <div><h4>Guides</h4><ul>{{footer_nav}}</ul></div>
+      <div>
+        <a class="brand" href="/"><svg class="ss-mark" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#FACC15"/><path d="M8 32V16.5L20 9l12 7.5V32" fill="none" stroke="#16181D" stroke-width="3" stroke-linejoin="round"/><path d="M13.5 32V20.5h13V32" fill="none" stroke="#16181D" stroke-width="2.6" stroke-linejoin="round"/><path d="M13.5 24.5h13M13.5 28.5h13" stroke="#16181D" stroke-width="2.2"/></svg><span class="ss-word">Storage<b>Savings</b></span></a>
+        <p>Independent guides to self-storage for homes and businesses: unit sizes, costs, container storage and ways to pay less. Part of the <a href="https://shmor.ai/">Shmor.ai</a> network: search more, do less.</p>
+      </div>
+      <div><h4>Storage guides</h4><ul>{{footer_nav}}</ul></div>
       <div><h4>Shmor.ai</h4><ul>
         <li><a href="https://shmor.ai/">All Shmor marketplaces</a></li>
-        <li><a href="https://shmor.ai/about/">About</a></li>
+        <li><a href="https://shmor.ai/about/">About Shmor</a></li>
         <li><a href="https://shmor.ai/contact/">Contact</a></li>
+        <li><a href="https://shmor.ai/partners/">Advertise with us</a></li>
       </ul></div>
       <div><h4>Legal</h4><ul>
-        <li><a href="https://shmor.ai/privacy/">Privacy</a></li>
-        <li><a href="https://shmor.ai/cookies/">Cookies</a></li>
-        <li><a href="https://shmor.ai/terms/">Terms</a></li>
+        <li><a href="https://shmor.ai/privacy/">Privacy policy</a></li>
+        <li><a href="https://shmor.ai/cookies/">Cookie policy</a></li>
+        <li><a href="https://shmor.ai/terms/">Terms of use</a></li>
         <li><a href="https://shmor.ai/affiliate-disclosure/">How we make money</a></li>
       </ul></div>
     </div>
-    <p class="disclosure">{{site_name}} is free to use. Some links are affiliate links: if you book or buy through them we may earn a commission, at no extra cost to you. Prices and availability are set by providers and can change. © {{year}} Shmor.ai</p>
+    <p class="disclosure">StorageSavings is an independent comparison and guide site. We don’t own or operate storage facilities: you rent directly from the provider, on their terms. Some links are affiliate links, so we may earn a commission if you book through them, at no extra cost to you. Prices, offers and availability are set by providers and can change, so always check before you book. © {{year}} Shmor.ai</p>
   </div>
 </footer>
 <script src="/assets/site.js" defer></script>

@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-13",
+  "slug": "peer-to-peer-storage",
+  "title": "Peer-to-Peer Storage: Rent a Neighbour’s Spare Space",
+  "description": "Rent a garage, loft, spare room or driveway from a private homeowner. How peer-to-peer storage works, pros and cons, and what to check first.",
+  "keywords": [
+    "peer to peer storage",
+    "private storage",
+    "rent garage space",
+    "garage for rent",
+    "spare room storage",
+    "neighbor storage",
+    "neighbour storage",
+    "driveway parking rental",
+    "rent out storage space",
+    "cheap storage alternative"
+  ],
+  "cardText": "Rent a garage, loft or spare room from a homeowner, or earn from your own space.",
+  "eyebrow": "Private storage",
+  "h1": "Peer-to-peer storage: renting private space",
+  "intro": "Peer-to-peer storage platforms connect people who need storage with homeowners who have space to spare, such as an empty garage, loft, shed or driveway. It can be a cheaper, closer alternative to a storage facility.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6",
+    "alt": "Boxes and plants stored in a spare room",
+    "credit": "Dina Badamshina",
+    "creditUrl": "https://unsplash.com/@dinaamazing"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “garage” or “insurance”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<ol><li>Search a peer-to-peer storage platform for space near you</li><li>Agree the space, access arrangements and price through the platform</li><li>Pay through the platform, which usually holds the agreement and handles payments</li><li>Arrange times to drop off and collect your things with the host</li></ol>"
+    },
+    {
+      "h2": "Pros and cons",
+      "html": "<p><strong>Pros:</strong></p><ul><li>Can be cheaper than a commercial facility, especially in cities</li><li>Often closer to home</li><li>Odd-shaped spaces such as lofts and sheds suit some items well</li></ul><p><strong>Cons:</strong></p><ul><li>Access usually depends on the host’s availability</li><li>Security varies: no staff, CCTV or alarm systems as standard</li><li>Protection and insurance differ between platforms, and may be limited</li><li>Spaces may be less dry or temperature-stable than a purpose-built unit</li></ul>"
+    },
+    {
+      "h2": "What to check first",
+      "html": "<ul><li>What protection or insurance the platform includes, and the claim limits</li><li>Whether your own insurance covers goods stored at someone else’s home</li><li>How disputes and cancellations are handled</li><li>The condition of the space: is it dry, lockable and pest-free?</li><li>Never pay outside the platform</li></ul>"
+    },
+    {
+      "h2": "Renting out your own space",
+      "html": "<p>If you have an empty garage or driveway, you may be able to earn from it. Check your mortgage or lease, your home insurance and any local rules first, and remember that income may need to be declared for tax.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is peer-to-peer storage safe?",
+      "a": "It can be, but security varies with each host and space. Use a reputable platform, check the protection it offers and avoid storing high-value or irreplaceable items."
+    },
+    {
+      "q": "Is peer-to-peer storage cheaper than self storage?",
+      "a": "Sometimes, particularly in big cities, but not always. Compare the total cost, including any platform fees and insurance, with local storage facilities."
+    }
+  ],
+  "faqTitle": "Peer-to-peer storage: FAQs",
+  "related": [
+    "storage-units",
+    "save-on-storage",
+    "vehicle-storage",
+    "choosing-a-storage-unit"
+  ],
+  "relatedTitle": "Related guides"
+}

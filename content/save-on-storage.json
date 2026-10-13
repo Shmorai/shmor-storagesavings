@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-13",
+  "slug": "save-on-storage",
+  "nav": "Save money",
+  "navOrder": 6,
+  "title": "How to Save Money on Self Storage: 12 Practical Tips",
+  "description": "Practical ways to cut the cost of self storage: right-sizing, price per square foot, hidden fees, introductory offers, price rises and insurance.",
+  "keywords": [
+    "cheap storage",
+    "cheap storage units",
+    "save money on storage",
+    "storage deals",
+    "storage discount",
+    "self storage cost",
+    "how much does a storage unit cost",
+    "storage unit price",
+    "storage price increase",
+    "first month free storage"
+  ],
+  "cardText": "Right-size, compare price per sq ft, avoid hidden fees and handle price rises.",
+  "eyebrow": "Save money",
+  "h1": "How to save money on self storage",
+  "intro": "Storage prices depend on location, size, type and demand, and the advertised price isn’t always what you’ll pay over time. These tips help you keep the total cost down.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609143739217-01b60dad1c67",
+    "alt": "Neatly stacked cardboard boxes on a tiled floor",
+    "credit": "MAK",
+    "creditUrl": "https://unsplash.com/@mak_jp"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “size” or “insurance”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare storage prices",
+  "sections": [
+    {
+      "h2": "What affects the price",
+      "html": "<ul><li><strong>Location:</strong> city-centre facilities usually cost more than those further out</li><li><strong>Size:</strong> bigger units cost more, but the price per square foot is often lower</li><li><strong>Type:</strong> climate control, drive-up access and 24-hour access can add to the price</li><li><strong>Demand:</strong> peak moving and student seasons can push prices up</li><li><strong>Extras:</strong> insurance, admin fees, locks and packing materials</li></ul>"
+    },
+    {
+      "h2": "12 ways to pay less",
+      "html": "<ol><li><strong>Declutter first.</strong> Sell, donate or recycle what you don’t need before paying to store it.</li><li><strong>Pick the right size.</strong> Use our <a href=\"/storage-unit-sizes/\">size guide</a> and pack tightly to use the full height.</li><li><strong>Compare the price per square foot or square metre</strong> across a few facilities.</li><li><strong>Look slightly further out.</strong> If you rarely visit, a less central site may cost less.</li><li><strong>Read introductory offers carefully.</strong> Find out the price you’ll pay once the offer ends.</li><li><strong>Ask about price rises.</strong> Some providers increase rates after you move in. Ask how often and how much notice you’ll get.</li><li><strong>Ask about longer-term or upfront discounts</strong> if you know how long you’ll need the space.</li><li><strong>Check insurance options.</strong> Compare the facility’s cover with your own home, renters or business policy.</li><li><strong>Ask about all fees:</strong> admin, deposit, lock, cleaning and late-payment charges.</li><li><strong>Skip climate control if you don’t need it</strong>, but use it for items that do (see <a href=\"/climate-controlled-storage/\">our guide</a>).</li><li><strong>Share a unit</strong> with family or friends, agreeing the terms in writing.</li><li><strong>Downsize or leave on time.</strong> Review what’s in storage regularly and give notice promptly.</li></ol>"
+    },
+    {
+      "h2": "VAT and taxes on storage",
+      "html": "<p>In the UK, self storage is generally subject to VAT at the standard rate, and in many EU countries VAT also applies. Check whether quoted prices include VAT. In the US, some states and cities charge sales tax on storage rental. Businesses may be able to reclaim VAT or deduct storage as an expense, so check with your accountant.</p>"
+    },
+    {
+      "h2": "Watch out for",
+      "html": "<ul><li>A low first-month price followed by a much higher monthly rate</li><li>Contracts that auto-renew for a fixed term</li><li>Insurance or protection cover added automatically</li><li>Notice periods that charge you for an extra month</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does a storage unit cost?",
+      "a": "Prices vary widely with location, size, type of unit and demand, so there’s no single answer. The best way to find out is to get quotes from a few local providers for the same size and compare the full monthly cost."
+    },
+    {
+      "q": "Are “first month free” or half-price offers worth it?",
+      "a": "They can be, especially for short stays. Always check the regular monthly price, the minimum term and any fees, so you know the total cost."
+    },
+    {
+      "q": "Can a storage facility raise my rent?",
+      "a": "Often yes. Many contracts allow price changes with notice. Ask how prices are reviewed before you sign, and compare again if your rate rises."
+    },
+    {
+      "q": "Is it cheaper to pay upfront?",
+      "a": "Some providers give a discount for paying several months in advance. Make sure you understand the refund rules if you leave early."
+    }
+  ],
+  "faqTitle": "Storage costs: frequently asked questions",
+  "related": [
+    "storage-unit-sizes",
+    "choosing-a-storage-unit",
+    "peer-to-peer-storage",
+    "storage-units"
+  ],
+  "relatedTitle": "Related guides"
+}

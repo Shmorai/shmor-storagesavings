@@ -1,0 +1,84 @@
+{
+  "updated": "2026-10-13",
+  "slug": "vehicle-storage",
+  "title": "Car, RV, Caravan & Boat Storage: Options Compared",
+  "description": "Outdoor, covered and indoor storage for cars, motorbikes, RVs, caravans, motorhomes and boats compared, plus how to prepare a vehicle for storage.",
+  "keywords": [
+    "vehicle storage",
+    "car storage",
+    "rv storage",
+    "caravan storage",
+    "motorhome storage",
+    "boat storage",
+    "motorcycle storage",
+    "trailer storage",
+    "classic car storage",
+    "winter car storage"
+  ],
+  "cardText": "Outdoor, covered or indoor storage for cars, RVs, caravans, motorhomes and boats.",
+  "eyebrow": "Vehicle storage",
+  "h1": "Car, RV, caravan and boat storage compared",
+  "intro": "No room on the drive, a vehicle you only use in summer, or a classic you want to protect? There are several ways to store it, at very different levels of protection.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1592351763700-b9b35a6465ea",
+    "alt": "A white caravan trailer parked on grass under a blue sky",
+    "credit": "Lance Anderson",
+    "creditUrl": "https://unsplash.com/@lanceanderson"
+  },
+  "searchPlaceholder": "Search storage guides, e.g. “caravan” or “boat”",
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Our guides and comparisons cost nothing. You book directly with the storage provider."
+    },
+    {
+      "title": "Compare before you book",
+      "text": "Check size, access, security and the full monthly cost, not just the headline price."
+    },
+    {
+      "title": "Home or business",
+      "text": "Advice for personal storage, business storage and everything in between."
+    }
+  ],
+  "partnersTitle": "Compare vehicle storage",
+  "sections": [
+    {
+      "h2": "Types of vehicle storage",
+      "html": "<ul><li><strong>Outdoor parking:</strong> a marked space in a secure, fenced yard. The most affordable option, best for vehicles built to live outdoors.</li><li><strong>Covered parking:</strong> a roof but open sides. Protects from sun, rain and snow.</li><li><strong>Indoor units:</strong> a fully enclosed drive-up unit. The best protection from weather and theft, often used for classic cars and motorbikes.</li><li><strong>Specialist storage:</strong> some sites focus on caravans, motorhomes, boats or classic cars and offer extras like battery charging or valeting.</li></ul>"
+    },
+    {
+      "h2": "Prepare a vehicle for storage",
+      "html": "<ul><li>Clean it inside and out, and remove food</li><li>Check tyre pressures, and consider moving it occasionally to avoid flat spots</li><li>Use a battery maintainer if the site allows, or disconnect the battery</li><li>Follow the manufacturer’s advice on fuel and fluids</li><li>Use a breathable cover</li><li>Remove valuables and documents</li></ul>"
+    },
+    {
+      "h2": "Registration, tax and insurance",
+      "html": "<p>In the UK, a vehicle that is kept off public roads and isn’t taxed needs a SORN (Statutory Off Road Notification) with the DVLA. In the US, registration and insurance rules for stored vehicles vary by state. Talk to your insurer: some offer “laid-up” or storage cover, but make sure you’re covered for fire and theft while the vehicle is stored.</p>"
+    },
+    {
+      "h2": "What to check at the site",
+      "html": "<ul><li>Security: gated access, CCTV, lighting and staff</li><li>Size limits for length and height, especially for RVs and boats on trailers</li><li>Whether you can work on the vehicle on site (most don’t allow it)</li><li>Access hours for weekend trips</li><li>Whether the site is approved by your insurer</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I store a car in a regular storage unit?",
+      "a": "Some facilities allow vehicles in drive-up units, usually 10 × 20 ft or larger. The vehicle often needs to be registered and insured. Check the facility’s rules first."
+    },
+    {
+      "q": "Do I need a SORN for a stored car in the UK?",
+      "a": "If the vehicle isn’t taxed and is kept off public roads, you need to make a SORN with the DVLA. If it’s still taxed, a SORN isn’t needed."
+    },
+    {
+      "q": "Is indoor or outdoor RV storage better?",
+      "a": "Indoor storage protects against sun, weather and theft but costs more and is harder to find for large RVs. Covered parking is a common middle ground."
+    }
+  ],
+  "faqTitle": "Vehicle storage: FAQs",
+  "related": [
+    "storage-unit-sizes",
+    "storage-units",
+    "choosing-a-storage-unit",
+    "save-on-storage"
+  ],
+  "relatedTitle": "Related guides"
+}
