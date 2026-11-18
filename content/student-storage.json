@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-11-18",
   "slug": "student-storage",
   "title": "Student Storage: Store Your Things Over the Summer",
   "description": "Student storage between terms and over summer: self storage, collection services and sharing a unit. How to pack, what to check and how to save.",
@@ -47,6 +47,10 @@
     {
       "h2": "Tips for students",
       "html": "<ul><li>Book early: demand peaks at the end of the academic year</li><li>Ask about student offers, and check the price after any offer ends</li><li>Use sturdy, same-sized boxes and label each one</li><li>Don’t store food, and make sure everything is clean and dry</li><li>Check your insurance: student contents policies don’t always cover storage</li></ul>"
+    },
+    {
+      "h2": "Questions to ask before you book",
+      "html": "<ul><li><strong>Term dates:</strong> can you access the unit on moving-in and moving-out days, and are there access hours that suit travel plans?</li><li><strong>Minimum rental length:</strong> is it monthly with notice, or a fixed term that outlasts the summer?</li><li><strong>Price after the offer:</strong> what is the standard rate once any student or first-month offer ends?</li><li><strong>Insurance:</strong> what does the operator require, and does your parents’ or your own policy cover items kept off-site?</li><li><strong>Sharing:</strong> who is named on the agreement, and who holds the key or code?</li><li><strong>Collection services:</strong> what is counted as one box, and what happens if you cannot be there on return day?</li></ul><p>Written answers beat verbal ones. Keep the confirmation email until your things are home. See also <a href=\"/choosing-a-storage-unit/\">choosing a storage unit</a> and <a href=\"/blog/what-not-to-put-in-storage/\">what not to put in storage</a>.</p>"
     }
   ],
   "faqs": [
@@ -57,6 +61,14 @@
     {
       "q": "Can I share a storage unit with friends?",
       "a": "Often yes, but the contract is usually in one person’s name, and they’re responsible for payment and access. Agree how you’ll split costs before you start."
+    },
+    {
+      "q": "Is it cheaper to store things over summer or take them home?",
+      "a": "It depends on distance and volume. Compare the cost of a unit or collection service for the months you need against transport costs and the time spent moving boxes twice."
+    },
+    {
+      "q": "Should I take photos of my things before storing them?",
+      "a": "Yes. A quick photo of your boxes and any valuable items gives you a record of what went in and its condition, which helps if you need to make an insurance claim."
     }
   ],
   "faqTitle": "Student storage: FAQs",

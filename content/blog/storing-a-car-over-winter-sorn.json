@@ -1,0 +1,85 @@
+{
+  "updated": "2026-11-18",
+  "type": "post",
+  "slug": "blog/storing-a-car-over-winter-sorn",
+  "date": "2026-11-18",
+  "eyebrow": "Vehicle storage",
+  "title": "Storing a Car for Winter: SORN, Tax and Insurance (UK)",
+  "description": "Storing a car over winter in the UK? Learn when you need a SORN, what the £80 fine is for, how to cancel it and what to check before you pay for storage.",
+  "h1": "Storing a car for winter: SORN, tax and insurance explained",
+  "intro": "Putting a car, classic or campervan away until spring can save money, but only if the paperwork is right. In the UK the key step is telling DVLA the vehicle is off the road. Here is how that works and what to check before you book a space.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1592351763700-b9b35a6465ea",
+    "alt": "A white caravan trailer parked on grass under a blue sky",
+    "credit": "Lance Anderson",
+    "creditUrl": "https://unsplash.com/@lanceanderson"
+  },
+  "keywords": [
+    "storing a car for winter",
+    "car storage over winter uk",
+    "sorn car storage",
+    "do i need sorn if car in storage",
+    "vehicle storage winter",
+    "classic car winter storage",
+    "caravan winter storage",
+    "stop paying car tax storage",
+    "cancel sorn",
+    "car storage unit uk"
+  ],
+  "cardText": "When a SORN is needed, what happens if you skip it, and how to bring the car back on the road.",
+  "sections": [
+    {
+      "h2": "When do you need a SORN?",
+      "html": "<p>GOV.UK says you need a SORN (Statutory Off Road Notification) when you take a vehicle off the road and want to stop taxing and insuring it. A vehicle is “off the road” if it is not kept or used on a public road, for example in a garage, on a drive or on private land, and it must stay in the UK for the SORN to be valid.</p><p>A storage unit or secure storage site counts as off the road. If you do <strong>not</strong> make a SORN, you must keep the vehicle taxed and insured, even while it sits in storage."
+    },
+    {
+      "h2": "What happens if you forget",
+      "html": "<p>GOV.UK says you will automatically be fined <strong>£80</strong> for not having a SORN when one is required, and driving an uninsured vehicle carries a separate fine. Making the notification is straightforward: do it online at the DVLA’s SORN service if the vehicle is registered in your name, by phone or by post using form V890. You will need your V5C log book number or tax reminder reference."
+    },
+    {
+      "h2": "When does a SORN start, and do you get tax back?",
+      "html": "<p>A SORN starts immediately if your vehicle tax has already expired or you are not applying in the month it is due to expire. If you apply in that month, it starts on the first day of the next month. It cannot be backdated and it never needs renewing. You will automatically get a refund for any <strong>full months</strong> of vehicle tax left."
+    },
+    {
+      "h2": "Bringing the car back in spring",
+      "html": "<p>A SORN is cancelled automatically when you tax the vehicle again, or when you sell, export or scrap it. You cannot use a SORN vehicle on the road. GOV.UK only allows driving it to or from a pre-booked MOT or other testing appointment, and other use can lead to prosecution and a fine of up to £2,500. Tax it, insure it and check the MOT before you drive away."
+    },
+    {
+      "h2": "Choosing where to store it",
+      "html": "<p>Compare indoor units, drive-up units and covered or outdoor bays on our <a href=\"/vehicle-storage/\">vehicle storage guide</a>, and use the <a href=\"/choosing-a-storage-unit/\">checklist for choosing a storage unit</a> to ask about access hours, security and fuel or battery rules. A container can be a cheaper option for bigger vehicles, see <a href=\"/blog/container-vs-storage-unit/\">container storage vs storage unit</a>. Some people keep insurance for fire, theft and damage while the car is stored. That is a separate decision, so ask your insurer what it covers for a stored vehicle, and tell the storage operator what insurance they require."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a SORN if my car is in a storage unit?",
+      "a": "Yes, if you want to stop taxing and insuring it. GOV.UK says a SORN is needed when a vehicle is taken off the road and untaxed or uninsured. Otherwise it must stay taxed and insured."
+    },
+    {
+      "q": "How much is the fine for not making a SORN?",
+      "a": "GOV.UK says you will automatically be fined £80 for not having a SORN when you need one."
+    },
+    {
+      "q": "Does a SORN have to be renewed each year?",
+      "a": "No. GOV.UK says it does not need renewing. It ends when you tax the vehicle again or sell, export or scrap it."
+    },
+    {
+      "q": "Can I drive a SORN vehicle to a garage?",
+      "a": "Only to or from a pre-booked MOT or other testing appointment. Other road use can lead to prosecution and a fine of up to £2,500, according to GOV.UK."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Make a SORN",
+      "url": "https://www.gov.uk/make-a-sorn"
+    },
+    {
+      "title": "GOV.UK: SORN (Statutory Off Road Notification)",
+      "url": "https://www.gov.uk/sorn-statutory-off-road-notification"
+    }
+  ],
+  "related": [
+    "vehicle-storage",
+    "choosing-a-storage-unit",
+    "blog/container-vs-storage-unit"
+  ]
+}
