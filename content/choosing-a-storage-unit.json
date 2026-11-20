@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-11-20",
   "slug": "choosing-a-storage-unit",
   "title": "How to Choose a Storage Unit: A Checklist",
   "description": "A practical checklist for choosing a storage facility: security, access hours, contract terms, insurance, fees, trade association membership and reviews.",
@@ -44,6 +44,10 @@
       "html": "<ul><li>Gated or keypad entry, ideally with individual access codes</li><li>CCTV that covers corridors and entrances, not just the gate</li><li>Good lighting and, ideally, on-site staff during the day</li><li>Individually alarmed units at some facilities</li><li>A sturdy lock: disc locks are harder to cut than standard padlocks</li></ul>"
     },
     {
+      "h2": "Ask about insurance before you sign",
+      "html": "<p>The Self Storage Association UK says insurance is not required by law where your contract records that you declined cover, but it advises members to insist customers insure their belongings, and a provider can refuse your business without it. Ask what the provider’s policy covers, whether your home insurer will extend your contents cover to the unit, and what maximum value applies. Our full guide: <a href=\"/blog/do-you-need-self-storage-insurance/\">do you need self storage insurance?</a> (Source: <a href=\"https://ssauk.com/customer-info/insurance.html\" rel=\"nofollow noopener\">SSA UK: Insurance</a>.)</p>"
+    },
+    {
       "h2": "Access and convenience",
       "html": "<ul><li>Access hours that fit your plans (some sites offer 24-hour access)</li><li>Drive-up units or loading bays near the door</li><li>Lifts, trolleys and pallet trucks</li><li>Parking for vans and trailers</li></ul>"
     },
@@ -68,6 +72,14 @@
     {
       "q": "Should I visit a storage facility before booking?",
       "a": "If you can, yes. A visit lets you check cleanliness, security, access and the actual unit, which photos don’t always show."
+    },
+    {
+      "q": "Should I value my stored goods at resale or replacement cost?",
+      "a": "SSA UK advises basing cover on the cost to replace your goods, not what they are worth second-hand, and updating it when you add or remove large items."
+    },
+    {
+      "q": "Can a storage firm reject my own insurance policy?",
+      "a": "Yes. SSA UK says providers can insist your cover is adequate and matches or betters the cover their own insurance offers."
     }
   ],
   "faqTitle": "Choosing storage: FAQs",
@@ -75,7 +87,8 @@
     "storage-units",
     "save-on-storage",
     "climate-controlled-storage",
-    "business-storage"
+    "business-storage",
+    "blog/do-you-need-self-storage-insurance"
   ],
   "relatedTitle": "Related guides"
 }

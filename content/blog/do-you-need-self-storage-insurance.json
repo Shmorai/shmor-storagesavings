@@ -1,0 +1,91 @@
+{
+  "updated": "2026-11-20",
+  "type": "post",
+  "slug": "blog/do-you-need-self-storage-insurance",
+  "date": "2026-11-20",
+  "eyebrow": "Protect your things",
+  "title": "Self Storage Insurance: Do You Really Need It?",
+  "description": "Self storage insurance explained for UK renters: whether it is required, using your home policy, replacement value and how to avoid being underinsured.",
+  "h1": "Self storage insurance: do you need it, and can your home policy cover it?",
+  "intro": "Insurance is the add-on that storage firms ask about at the desk, and it can quietly become one of the bigger monthly costs. Here is what the Self Storage Association UK says about cover, how to check your home policy and how to avoid paying twice or being underinsured.",
+  "cardText": "Is storage insurance compulsory, can your home policy cover a unit, and how to value your goods.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1638847868668-a05a2f69622f",
+    "alt": "A storage building with red roll-up doors against the sky",
+    "credit": "Adam Winger",
+    "creditUrl": "https://unsplash.com/@awcreativeut"
+  },
+  "keywords": [
+    "self storage insurance",
+    "do i need insurance for a storage unit",
+    "storage unit insurance uk",
+    "home insurance cover storage unit",
+    "is storage insurance compulsory",
+    "contents insurance storage unit",
+    "storage insurance cost",
+    "insure belongings in storage",
+    "storage unit insurance required"
+  ],
+  "sections": [
+    {
+      "h2": "Is self storage insurance compulsory?",
+      "html": "<p>The Self Storage Association UK (SSA UK) says insurance is not required by law, but it advises its members to <strong>insist that customers insure their belongings</strong>, and providers can refuse your business if you do not have cover. In practice, most operators will ask you to take their cover or show proof of your own at signing. Read the rental agreement: it will say what you must have and what happens if you decline.</p><p>Remember that the storage firm’s liability for your goods is usually limited by the contract, so cover is there to protect <em>you</em>. Our guide to <a href=\"/choosing-a-storage-unit/\">choosing a storage unit</a> lists what else to check in the agreement.</p>"
+    },
+    {
+      "h2": "Option 1: the provider’s insurance",
+      "html": "<p>SSA UK explains that the storage provider typically uses an insurance broker, who also handles claims. It is the simplest route: cover starts when you move in and the premium is added to your rent. Not every provider offers it, and you should ask exactly what the policy covers, the maximum it will pay and the excess, so you can compare it fairly with other options.</p>"
+    },
+    {
+      "h2": "Option 2: extend your home contents insurance",
+      "html": "<p>SSA UK notes you may be able to extend your home insurance to cover belongings kept at another location. Contact your insurer, give them the storage address and ask about:</p><ul><li>the <strong>maximum value</strong> covered away from home,</li><li>any <strong>time limit</strong> on how long goods can be stored,</li><li>whether there is an <strong>extra fee</strong>.</li></ul><p>SSA UK also warns that the full value of your contents cover will sometimes not extend to a storage unit. And if the storage firm insists on a minimum level of cover, it can reject a policy that does not match or better its own.</p>"
+    },
+    {
+      "h2": "Value your goods at replacement cost",
+      "html": "<p>SSA UK’s guidance is to work out cover based on <strong>what it would cost to replace your items</strong>, not what they would sell for. List large items, estimate replacement prices, add the total and revisit it whenever you add or remove something big. If you are underinsured, a claim can be reduced even for a small loss. Photographing and listing your goods as you pack helps: see <a href=\"/blog/how-to-pack-a-storage-unit/\">how to pack a storage unit</a>.</p>"
+    },
+    {
+      "h2": "A quick checklist before you sign",
+      "html": "<ol><li>Read what the rental agreement says you must have, and whether you can decline the provider’s cover in writing.</li><li>Ask your home insurer, by phone or email, for written confirmation of any extension, including the maximum value and time limit.</li><li>Compare the provider’s cover and your own on the same terms: maximum payout, excess and what is excluded.</li><li>List and photograph your goods, and keep receipts for larger items.</li><li>Review the cover every time the contents change, and when you renew.</li></ol><p>Comparing cover is one way to keep the total cost down: see <a href=\"/save-on-storage/\">how to save on storage</a> for the other levers.</p>"
+    },
+    {
+      "h2": "Cars, caravans and special items",
+      "html": "<p>Standard storage cover is built around household and business goods. If you plan to keep a car, motorbike or caravan in storage, ask the insurer in writing whether it is covered, and read <a href=\"/vehicle-storage/\">our vehicle storage guide</a> and the <a href=\"/blog/storing-a-car-over-winter-sorn/\">SORN, tax and insurance post</a>. Also remember that some items should never go in a unit at all: see <a href=\"/blog/what-not-to-put-in-storage/\">what not to put in storage</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to insure my things in a self storage unit?",
+      "a": "Not by law, according to SSA UK, but it advises members to insist customers insure their belongings and providers can refuse your business without cover."
+    },
+    {
+      "q": "Will my home insurance cover my storage unit?",
+      "a": "Possibly. SSA UK says you may be able to extend it to belongings stored elsewhere, but check the maximum value and time limit, as full contents cover is sometimes not extended."
+    },
+    {
+      "q": "How much cover should I buy?",
+      "a": "Base it on the cost to replace your goods, not their resale value, and update it when you add or remove large items."
+    },
+    {
+      "q": "Can the storage firm reject my own policy?",
+      "a": "Yes. SSA UK says providers can require that your cover is adequate and matches or betters the cover they offer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SSA UK: Insurance",
+      "url": "https://ssauk.com/customer-info/insurance.html"
+    },
+    {
+      "title": "SSA UK: Customer advice on self storage",
+      "url": "https://ssauk.com/customer-info/customer-advice-on-self-storage.html"
+    },
+    {
+      "title": "SSA UK: FAQs for users of self storage",
+      "url": "https://ssauk.com/customer-info/self-storage-faqs.html"
+    }
+  ],
+  "related": [
+    "choosing-a-storage-unit",
+    "save-on-storage"
+  ]
+}
