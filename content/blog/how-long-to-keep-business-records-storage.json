@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-25",
+  "type": "post",
+  "slug": "blog/how-long-to-keep-business-records-storage",
+  "date": "2026-11-25",
+  "eyebrow": "Business storage",
+  "title": "How Long to Keep Business Records in Storage (UK/US)",
+  "description": "How long to keep business records in storage: HMRC 5-year and 6-year company rules, the IRS 3-year default, and when to keep paperwork longer or go digital.",
+  "h1": "How long to keep business records before you stop paying to store them",
+  "intro": "Boxes of old invoices and bank statements can fill a storage unit for years. Tax authorities set minimum periods, and keeping paper longer than you need costs rent every month. This guide sets out the UK and US minimums, the cases where you must keep records longer and how to decide what to scan, store or shred.",
+  "cardText": "HMRC and IRS minimum retention periods, when to keep records longer, and how to cut archive storage costs.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Archive_storage_%28Unsplash%29.jpg/1920px-Archive_storage_%28Unsplash%29.jpg",
+    "alt": "Narrow aisle between grey metal shelves of archive boxes and lever-arch files",
+    "credit": "Samuel Zeller / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Archive_storage_(Unsplash).jpg"
+  },
+  "keywords": [
+    "how long to keep business records",
+    "how long to keep tax records uk",
+    "business document storage",
+    "hmrc record keeping 6 years",
+    "irs how long to keep records",
+    "archive storage for business",
+    "self employed records how long",
+    "store business paperwork",
+    "document storage unit"
+  ],
+  "sections": [
+    {
+      "h2": "UK limited companies: 6 years",
+      "html": "<p>GOV.UK says a company must keep records for <strong>6 years from the end of the last company financial year they relate to</strong>. You must keep them longer if they show a transaction that covers more than one accounting period, if the company bought something expected to last more than 6 years (such as equipment or machinery), if the Company Tax Return was sent late, or if HMRC has started a compliance check (GOV.UK, as of November 2026).</p>"
+    },
+    {
+      "h2": "Self-employed and Self Assessment: at least 5 years",
+      "html": "<p>If you are self-employed or send a Self Assessment return, GOV.UK says to keep records for <strong>at least 5 years after the 31 January submission deadline</strong> of the relevant tax year. For a 2022 to 2023 return sent online by 31 January 2024, that means keeping them until at least the end of January 2029. If you file very late (more than 4 years after the deadline), the period is 15 months after you send the return.</p>"
+    },
+    {
+      "h2": "US businesses and individuals: the IRS 3-year default",
+      "html": "<p>The IRS says to keep records for <strong>3 years</strong> unless a longer rule applies. It lists longer periods: 6 years if you under-reported income by more than 25% of the gross income on your return, 7 years for worthless securities or bad debt deductions, and at least 4 years for employment tax records. Property records should be kept until the limitations period ends for the year you dispose of the property. If you never filed a return, or filed a fraudulent one, keep records indefinitely (IRS, as of November 2026). Check whether insurers, lenders or contracts require longer.</p>"
+    },
+    {
+      "h2": "Is paper in a storage unit the best way to keep them?",
+      "html": "<p>HMRC does not require paper. GOV.UK says there are no rules on format, so records can be paper, digital files or bookkeeping software, but they must be accurate, complete and readable. Scanning cuts the space you need, though keep original documents where a contract or legal obligation needs them and check with your accountant first.</p><p>If you do keep paper, a small unit is usually enough. Our <a href=\"/storage-unit-sizes/\">storage unit size guide</a> shows what fits, and the <a href=\"/business-storage/\">business storage</a> page covers units for stock, equipment and archives.</p>"
+    },
+    {
+      "h2": "How to store records so they stay usable",
+      "html": "<ul><li><strong>Box by tax year</strong> and label each box with the year and a shred-after date.</li><li><strong>Use lidded archive boxes on shelves</strong>, not on the floor, and keep them off the walls.</li><li><strong>Ask about dry, temperature-stable space.</strong> Paper suffers in damp, so see <a href=\"/climate-controlled-storage/\">climate controlled storage</a> if you plan to store for years.</li><li><strong>Keep an index</strong> so you can find a document without emptying the unit.</li></ul><p>More ideas for fitting more in are in <a href=\"/blog/how-to-pack-a-storage-unit/\">how to pack a storage unit</a>.</p>"
+    },
+    {
+      "h2": "Cutting the cost of archive storage",
+      "html": "<p>Each year, review what has passed its retention date and shred it securely, since the shred-after dates on your boxes tell you when. Fewer boxes may mean a smaller unit. Our <a href=\"/save-on-storage/\">ways to save on storage</a> page covers other ways to pay less. Records that must be kept for several years are a good case for scanning and storing paper only where needed.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long should a UK limited company keep its records?",
+      "a": "GOV.UK says 6 years from the end of the last company financial year they relate to, or longer in some cases, such as transactions spanning several accounting periods or a late Company Tax Return."
+    },
+    {
+      "q": "How long do sole traders need to keep records?",
+      "a": "GOV.UK says at least 5 years after the 31 January submission deadline of the relevant tax year."
+    },
+    {
+      "q": "How long does the IRS say to keep records?",
+      "a": "Generally 3 years, with longer periods in some situations, such as 6 years if income was under-reported by more than 25%, and indefinitely if no return was filed."
+    },
+    {
+      "q": "Can I scan paper records and throw away the originals?",
+      "a": "GOV.UK says HMRC has no rules on format and accepts paper, digital files or bookkeeping software if records are accurate, complete and readable. Check with your accountant, and keep any original you are legally required to keep."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Company and accounting records (limited companies)",
+      "url": "https://www.gov.uk/running-a-limited-company/company-and-accounting-records"
+    },
+    {
+      "title": "GOV.UK: How long to keep your records (self-employed)",
+      "url": "https://www.gov.uk/self-employed-records/how-long-to-keep-your-records"
+    },
+    {
+      "title": "GOV.UK: Keeping your pay and tax records",
+      "url": "https://www.gov.uk/keeping-your-pay-tax-records"
+    },
+    {
+      "title": "IRS: How long should I keep records?",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records"
+    }
+  ],
+  "related": [
+    "business-storage",
+    "save-on-storage"
+  ]
+}
