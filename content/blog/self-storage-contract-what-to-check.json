@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-27",
+  "type": "post",
+  "slug": "blog/self-storage-contract-what-to-check",
+  "date": "2026-11-27",
+  "eyebrow": "Before you sign",
+  "title": "Self Storage Contract: 10 Things to Check First",
+  "description": "Self storage contract checklist: notice period, price rises, access hours, insurance, late fees and cancellation rights to check before you sign.",
+  "h1": "Self storage contract: what to check before you sign",
+  "intro": "A storage unit usually takes five minutes to book online, but the agreement can run for months. Terms differ between operators, so the cheapest headline price is not always the cheapest deal. Use this checklist of questions to ask before you pay, so you are not surprised when it is time to leave.",
+  "cardText": "Ten questions on notice, price rises, access, insurance and cancellation to ask before you book a unit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1649313444539-a8900c5cdc54",
+    "alt": "A row of drive-up storage units at a storage facility",
+    "credit": "Adam Winger",
+    "creditUrl": "https://unsplash.com/@awcreativeut"
+  },
+  "keywords": [
+    "self storage contract",
+    "storage unit agreement",
+    "self storage terms and conditions",
+    "storage unit notice period",
+    "storage unit price increase",
+    "cancel storage unit",
+    "self storage cooling off",
+    "storage unit late payment",
+    "storage unit access hours",
+    "storage contract checklist"
+  ],
+  "sections": [
+    {
+      "h2": "Notice period and minimum term",
+      "html": "<p>Most operators let you rent week to week or month to month, but they differ on how much <strong>notice you must give</strong> when you leave. Some require a full week or month, and rent can keep running until the unit is empty and handed back. Ask:</p><ul><li>Is there a minimum rental period?</li><li>How much notice do I need, and does it have to be in writing?</li><li>Do I pay until the end of the billing period if I leave early?</li></ul>"
+    },
+    {
+      "h2": "Introductory prices and price rises",
+      "html": "<p>Many operators advertise a low first-period price, such as a discount for the first weeks or months. Find out what the <strong>standard rate</strong> is afterwards and how and when they can raise it. We do not list prices on this site because they vary by location and change often, so ask for the full cost in writing, including any admin fee, lock purchase and deposit. Our <a href=\"/save-on-storage/\">guide to saving on storage</a> covers ways to bring the cost down.</p>"
+    },
+    {
+      "h2": "Access hours, security and the unit itself",
+      "html": "<p>Check when you can get in: some sites have restricted office hours or gate hours, and access outside them may cost extra. Ask about security (CCTV, gate codes, individual alarms) and whether the unit is inside, drive-up or <a href=\"/climate-controlled-storage/\">climate controlled</a> if you are storing furniture, papers or electronics. A visit before booking is worth it. Choose a size that fits using our <a href=\"/storage-unit-sizes/\">unit size guide</a> rather than overpaying for space.</p>"
+    },
+    {
+      "h2": "Insurance and liability",
+      "html": "<p>Operators commonly limit their own liability and expect you to insure your goods, either through their scheme or your own policy. Read what is covered, the excess and what is excluded. Our post on <a href=\"/blog/do-you-need-self-storage-insurance/\">whether you need self storage insurance</a> explains the choices. Also read the list of banned items in the contract: see <a href=\"/blog/what-not-to-put-in-storage/\">what you can’t put in a storage unit</a>.</p>"
+    },
+    {
+      "h2": "Late payment, lien and what happens if you stop paying",
+      "html": "<p>Check the late fee, how many days of arrears trigger a lock-on, and what the operator can do with your goods if the debt remains. Many agreements allow the operator to sell stored goods to recover unpaid rent after notice. Make sure the operator has your current contact details and reply to every reminder, since unanswered letters are how people lose items.</p>"
+    },
+    {
+      "h2": "Your right to cancel a booking made online",
+      "html": "<p>If you book a unit online or by phone, UK consumer law normally gives you <strong>14 days to cancel a services contract</strong> without giving a reason (GOV.UK, as of November 2026). If you move in during that period you may have to pay for the time you used. Check the operator’s terms and keep the confirmation email. Business renters can have different rights, so read the agreement closely: see our <a href=\"/business-storage/\">business storage</a> page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a cooling-off period for a storage unit booked online?",
+      "a": "Usually you can cancel a services contract bought online or by phone within 14 days, though you may pay for any days you used the unit. Check the operator’s terms and GOV.UK guidance."
+    },
+    {
+      "q": "How much notice do I need to give to leave a storage unit?",
+      "a": "It depends on the operator and your agreement. It is often a week or a month, so read the terms and confirm the date in writing."
+    },
+    {
+      "q": "Can a storage company sell my belongings?",
+      "a": "Many agreements allow it if rent stays unpaid after notice. Read the clause and respond to reminders so you can avoid it."
+    },
+    {
+      "q": "Should I take a photo of the unit when I move in?",
+      "a": "Yes. A dated photo of the empty unit and of your goods helps if there is a later dispute about condition or damage."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Online and distance selling, cancellations",
+      "url": "https://www.gov.uk/online-and-distance-selling-for-businesses/cancellations"
+    },
+    {
+      "title": "Citizens Advice: Cooling-off period for services bought at a distance",
+      "url": "https://www.citizensadvice.org.uk/consumer/different-ways-of-buying/buying-by-internet-mail-order-or-phone/cancelling-a-distance-sale-order/cooling-off-period-when-you-buy-services-distance-sale/"
+    },
+    {
+      "title": "GOV.UK: Consumer protection rights",
+      "url": "https://www.gov.uk/consumer-protection-rights"
+    }
+  ],
+  "related": [
+    "choosing-a-storage-unit",
+    "save-on-storage"
+  ]
+}

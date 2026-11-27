@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-11-27",
   "slug": "blog/container-vs-storage-unit",
   "type": "post",
   "date": "2026-10-13",
@@ -37,6 +37,10 @@
     {
       "h2": "Compare the total cost",
       "html": "<p>Prices depend heavily on where you live and how long you need storage. Get quotes for both options and add every fee, including delivery, collection, insurance and van hire. See our guides to <a href=\"/container-storage/\">container storage</a> and <a href=\"/save-on-storage/\">saving on storage</a>.</p>"
+    },
+    {
+      "h2": "Questions to ask before choosing either",
+      "html": "<ul><li><strong>Where will it sit?</strong> A container delivered to your home needs a safe, level place to stand and clear access for the delivery vehicle. Ask the company what space it needs.</li><li><strong>What are the access arrangements?</strong> A container at home is yours to open any time; a unit may have gate or office hours. Our <a href=\"/blog/self-storage-contract-what-to-check/\">self storage contract checklist</a> covers access, notice and fees.</li><li><strong>How long will you need it?</strong> Short, flexible needs often suit a unit; a long project at your own address may suit a container. Compare the total for your expected period, not the weekly price.</li><li><strong>Who insures the contents?</strong> Ask what is covered and what is not: see <a href=\"/blog/do-you-need-self-storage-insurance/\">do you need self storage insurance?</a></li></ul>"
     }
   ],
   "sources": [
@@ -53,5 +57,15 @@
     "container-storage",
     "storage-for-moving",
     "storage-units"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need permission to keep a container on my driveway?",
+      "a": "It can depend on where it stands, for example on a public road or in a shared area. Ask the container company and your local council before delivery."
+    },
+    {
+      "q": "Can I switch from a container to a unit mid-way?",
+      "a": "Often yes if you plan for it, but check each provider’s notice period and any collection fee before you start."
+    }
   ]
 }
